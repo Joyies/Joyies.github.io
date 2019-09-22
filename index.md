@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：易侨斯
+#### 学历：高中
+#### 学校：江西师范大学
 
-You can use the [editor on GitHub](https://github.com/Joyies/Joyies.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 研究方向
+- 图像增强
+- 人群密度估计
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 项目经历
+- 基于深度学习的人群密度检测系统
+- 基于深度学习的道路车流量检测系统
+- 基于 Encode-Decode 的图像去雾系统
+- 智能衣架
 
-### Markdown
+### 获奖情况
+- 美国大学生数学建模竞赛 M 奖
+- ‘高教社杯’全国大学生数学建模竞赛 国家二等奖
+- 中国多媒体大会‘图像去雾’处理竞赛 国家二等奖
+- 江西省软件服务外包创新创业大赛 一等奖
+- 第 16 届全国大学生课外学术科技作品竞赛江西赛区 二等奖
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joyies/Joyies.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 论文情况
+- Haoran Liu, Qiaosi Yi, Aiwen Jiang*, Xiaolin Deng, Jianyi Wan, Mingwen Wang: Static Crowd Scene Analysis via Deep Network with Multi-branch Dilated Convolution Blocks. In the IEEE Conference on International Joint Conference on Neural Networks(IJCNN), 2019.
