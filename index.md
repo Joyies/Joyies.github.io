@@ -22,3 +22,5 @@
 
 ### 论文情况
 - Haoran Liu, Qiaosi Yi, Aiwen Jiang*, Xiaolin Deng, Jianyi Wan, Mingwen Wang: Static Crowd Scene Analysis via Deep Network with Multi-branch Dilated Convolution Blocks. In the IEEE Conference on International Joint Conference on Neural Networks(IJCNN), 2019.
+- Long Peng, Aiwen Jiang, Qiaosi Yi, Mingwen Wang: Cumulative Rain Density Sensing Network for Single Image Derain. In the IEEE Signal
+Processing Letters, 2020.
