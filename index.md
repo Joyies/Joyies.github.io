@@ -21,7 +21,8 @@
 - 第 16 届全国大学生课外学术科技作品竞赛江西赛区 二等奖
 
 ### 论文情况
+- Qiaosi Yi, Aiwen Jiang, Juncheng Li, Jianyi Wan, Mingwen Wang: Progressive Back-Traced Dehazing Network Based on Multi-Resolution Recurrent Reconstruction. In the IEEE Access, 2020.
+- Qiaosi Yi, Aiwen Jiang, Xiaolin Deng, Changhong Liu: MSNet: A Novel End-to-End Single Image Dehazing Network with Multiple Inter-Scale Dense Skip-connections. In the IET Image Processing, 2020.
 - Haoran Liu, Qiaosi Yi, Aiwen Jiang*, Xiaolin Deng, Jianyi Wan, Mingwen Wang: Static Crowd Scene Analysis via Deep Network with Multi-branch Dilated Convolution Blocks. In the IEEE Conference on International Joint Conference on Neural Networks(IJCNN), 2019.
 - Long Peng, Aiwen Jiang, Qiaosi Yi, Mingwen Wang: Cumulative Rain Density Sensing Network for Single Image Derain. In the IEEE Signal
 Processing Letters, 2020.
-- Qiaosi Yi, Aiwen Jiang, Juncheng Li, Jianyi Wan, Mingwen Wang: Progressive Back-Traced Dehazing Network Based on Multi-Resolution Recurrent Reconstruction. In the IEEE Access, 2020.
